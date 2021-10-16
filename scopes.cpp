@@ -2,13 +2,13 @@
 #include <vector>
 
 // scope
-char y;
+int y;
 
 // declaration != definition
 // Any definition is declaration
 
 // One Definition Rule
-int f(int x);
+char f(char x);
 
 
 namespace N {
